@@ -1,7 +1,7 @@
 # theDollarToPesoToday
 Fullstack web app that allows user to pull data from an international live currency converter.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:**  http://www.thedollartopesotoday.com/
 
 ![photo of app](http://placecorgi.com/1200/650)
 
