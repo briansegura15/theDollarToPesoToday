@@ -3,7 +3,8 @@ Fullstack web app that allows user to pull data from an international live curre
 
 **Link to project:**  http://www.thedollartopesotoday.com/
 
-![photo of app](http://placecorgi.com/1200/650)
+![Colombian Currency Full](https://user-images.githubusercontent.com/84042284/196479988-d9495b3d-1741-4b5c-970a-1ba4d701319a.png)
+
 
 ## How It's Made:
 
