@@ -1,7 +1,7 @@
 # theDollarToPesoToday
 Fullstack web app that allows user to pull data from an international live currency converter.
 
-**Link to project:**  http://www.thedollartopesotoday.com/
+**Link to project:**  [http://www.thedollartopesotoday.com/](https://briansegura15.github.io/theDollarToPesoToday/)
 
 ![Colombian Currency Full](https://user-images.githubusercontent.com/84042284/196479988-d9495b3d-1741-4b5c-970a-1ba4d701319a.png)
 
