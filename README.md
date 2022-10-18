@@ -13,7 +13,7 @@ IDE used was VScode, images used from Unsplash, fonts are from Google Fonts. Bui
 
 ## Optimizations
 
-Would enjoy going back and implementing the option to not only acquire the transfer rates from USD -> COP but vice versa. 
+Would enjoy going back and implementing the option to not only acquire the transfer rates from USD -> COP but vice versa as well as making the app fully responsive and mobile friendly.
 
 ## Lessons Learned:
 
